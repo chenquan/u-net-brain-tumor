@@ -462,8 +462,7 @@ def u_net_bn(x, is_train=False, reuse=False, batch_size=None, pad='SAME', n_out=
 #     return conv10, outputs
 
 
-if __name__ == "__main__":
-    pass
+pass
     # main()
 
 
